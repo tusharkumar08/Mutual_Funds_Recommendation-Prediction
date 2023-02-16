@@ -1,0 +1,8 @@
+DAProject.ipynb
+Sorted_MF.csv
+*.zip
+*.txt
+*.xlsx
+!EDA/*.xlsx
+data.csv
+
